@@ -1,2 +1,1 @@
-## About
-I'm Aidan!
+# I'm Aidan!
